@@ -11,17 +11,17 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-i18n": "4.9.0",
-    "@strapi/plugin-users-permissions": "4.9.0",
-    "@strapi/provider-upload-cloudinary": "^4.9.0",
-    "@strapi/strapi": "4.9.0",
+    "@strapi/strapi": "4.10.2",
+    "@strapi/plugin-users-permissions": "4.10.2",
+    "@strapi/plugin-i18n": "4.10.2",
+    "better-sqlite3": "8.0.1",
     "pg": "8.8.0"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "7f5aa9c8-eaa1-4533-9cf9-df97111dfa45"
+    "uuid": "b5390f55-0d13-4854-9941-b4bcec1b375f"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
